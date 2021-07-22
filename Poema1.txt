@@ -25,4 +25,3 @@ simulacros
 para que entre los dos
 no haya telón
 ni abismos
-
